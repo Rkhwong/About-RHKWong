@@ -2,6 +2,7 @@
 - 👀 I’m interested in Unity/Python/Android Dev
 - 🌱 I’m currently learning Unity/Python
 - 💞️ I’m looking to collaborate on Unity 2D Platform Games
+- My CodeWars : https://www.codewars.com/users/Rkhwong/stats
 - 📫 How to reach me ...
 
 <!---
